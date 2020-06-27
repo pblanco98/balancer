@@ -1,0 +1,1 @@
+Checks your code for balanced brackets[], curly braces{}, and parenthesis().
